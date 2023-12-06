@@ -1,3 +1,8 @@
+import axios from 'axios';
+
+axios.get('https://google.com', {
+
+});
 let hello: string = 'hello';
 console.log(hello);
 
