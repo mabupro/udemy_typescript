@@ -112,3 +112,4 @@ User3 = __decorate([
     Component3('<h1>{{name}}</h1>', '#app'),
     Logging3('Logging User')
 ], User3);
+// -----------------------------------------------
